@@ -1,4 +1,4 @@
 ---
 layout: default
 ---
-what dose it includ
+what dose it include
